@@ -1,6 +1,7 @@
 # Contributing Guidelines
 
-Thank you very much for contributing!
+Thank you very much for contributing!  
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## Coding Convention
 Please follow [python coding convention](https://peps.python.org/pep-0008/).
