@@ -1,2 +1,2 @@
 # githubTest
-This repo is created as a reuirement for the ibm test.
+This repo is created as a requirement for the ibm test.
